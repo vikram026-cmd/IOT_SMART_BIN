@@ -43,6 +43,10 @@ A servo motor is used for opening and closing the bin lid automatically. The col
     <img src="images/circuit.png" width="650"/>
   </a>
 </p>
+---
+
+## 🎥 Demo Video
+images/VIDEO.mp4
 
 ---
 
